@@ -77,6 +77,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ bystarring some of the repositories!
+![banner2](https://github.com/arpusauri/arpusauri/assets/110978840/aafa4162-132a-4ffb-80e9-e87f30bd46b6)
+
 
 </div>
