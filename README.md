@@ -17,8 +17,6 @@ Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ### Persona Info:
 
 - 🛠 &nbsp; I’m currently working with JS, React, Bootstrap, etc.
