@@ -1,5 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Per.....+So.....+Na.....!!!+++++)](https://git.io/typing-svg)
-![persona_awakening](https://github.com/arpusauri/arpusauri/assets/110978840/37a3eff5-93de-4845-8b21-24b553d2db7d)
+![persona_awakening](https://github.com/arpusauri/arpusauri/assets/110978840/17f0e965-2b75-438a-86aa-82c51602332f)
+
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arpusaurii)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sauri-270b22266/)
