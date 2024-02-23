@@ -1,2 +1,80 @@
-![arpusauri's Stats](https://github-readme-stats.vercel.app/api?username=arpusauri&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![arpusauri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpusauri&theme=dark&show_icons=true&hide_border=true&layout=compact)
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Per.....+So.....+Na.....!!!+++++)](https://git.io/typing-svg)
+![persona_awakening](https://github.com/arpusauri/arpusauri/assets/110978840/37a3eff5-93de-4845-8b21-24b553d2db7d)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/arpusaurii)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sauri-270b22266/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arpusauri/)
+
+### Glad to see you come here! ![](https://komarev.com/ghpvc/?username=arpusauri)
+
+I am a Full Stack Developer currently tip toe diving the beautiful 🌈Tech World at <a href="https://id.wikipedia.org/wiki/SMK_Negeri_1_Cimahi">SMK Negeri 1 Cimahi </a>with a mission to revolutionize the tech industries with my aspiring code snipping skils. 🚀
+
+Feel free to connect with me @arpusauri for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
+
+Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+
+### Persona Info:
+
+- 🛠 &nbsp; I’m currently working with JS, React, Bootstrap, etc.
+- 🚀 &nbsp; I’m currently exploring XML, Python, PostgreSQL, Odoo, etc.
+- 👾 &nbsp; Fun fact: You can also use a semicolon at the beginning of a line in JS.
+- 📫 &nbsp; Reach me out: aryapsauri@gmail.com.
+
+### Hobbies:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching films (anime) whenever possible.
+- 🏃 &nbsp; I have a Burning passion for running.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  ![arpusauri's Stats](https://github-readme-stats.vercel.app/api?username=arpusauri&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![arpusauri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpusauri&theme=dark&show_icons=true&hide_border=true&layout=compact)
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  ![arpusauri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpusauri&theme=dark&hide_border=true)
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 11 Home</li>
+	    <li><b>Laptop: </b> Lenovo IdeaPad Gaming 3 15ACH6</li>
+  	    <li><b>Browser: </b> Chrome - works fine</li>
+	    <li><b>Terminal: </b> Powershell - it's the only way to go</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Notepad, Notion, Spotify</li>
+	    <li><b>To Stay Updated:</b> Twitter, Reddit, YouTube, & Discord</li>
+	</ul>
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
