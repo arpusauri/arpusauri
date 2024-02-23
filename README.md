@@ -14,9 +14,9 @@ I am a Full Stack Developer currently tip toe diving the beautiful 🌈Tech Worl
 
 Feel free to connect with me @arpusauri for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github 2 years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed 37 commits, opened 0 issues, submitted 0 pull requests, created 0 gists and contributed to 0 public repositories.
 
 ### Persona Info:
 
