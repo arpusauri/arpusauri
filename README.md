@@ -5,6 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sauri-270b22266/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/arpusauri/)
 
+## Hey there 👋, I'm [Arya Sauri!](https://github.com/arpusauri/)
+
 ### Glad to see you come here! ![](https://komarev.com/ghpvc/?username=arpusauri)
 
 I am a Full Stack Developer currently tip toe diving the beautiful 🌈Tech World at <a href="https://id.wikipedia.org/wiki/SMK_Negeri_1_Cimahi">SMK Negeri 1 Cimahi </a>with a mission to revolutionize the tech industries with my aspiring code snipping skils. 🚀
@@ -46,15 +48,15 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  ![arpusauri's Stats](https://github-readme-stats.vercel.app/api?username=arpusauri&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![arpusauri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpusauri&theme=dark&show_icons=true&hide_border=true&layout=compact)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arpusauri&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpusauri&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  ![arpusauri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpusauri&theme=dark&hide_border=true)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arpusauri&hide_border=true" />
 </details>
 
 <details>
