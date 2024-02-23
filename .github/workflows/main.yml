@@ -14,7 +14,7 @@ jobs:
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1.1
       with:
-        token: ${{ secrets.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 }}
+        token: ${{ secrets.USER_TOKEN }}
         includeForks: true
     - name: Update README.md
       run: |
@@ -25,4 +25,3 @@ jobs:
         git commit -m "Update README"
         git push
         fi
-
